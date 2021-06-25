@@ -9,7 +9,7 @@
 </p>
 
 <p align='center'>
-    <a href="https://github.com/ilkerrdogan/github-profile-views-counter">
+    <a href="https://github.com/ilkerdogann/github-profile-views-counter">
     <img src="https://komarev.com/ghpvc/?username=ilkerdogann">  
 </p>
    
